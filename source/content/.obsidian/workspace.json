@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -171,6 +171,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "IntroSlides_HugoP(2)(1).jpg",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "index.md",
