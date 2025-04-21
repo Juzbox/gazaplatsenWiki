@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -169,17 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "IntroSlides_HugoP(2)(1).jpg",
+    "IMAGES",
+    "GazaplatsenWiki/MAPPING GAZAPLATSEN.md",
+    "index.md",
+    "IMAGES/IntroSlides_HugoP(2)(1).jpg",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
     "index2.md",
     "Digital Twin Prototypes/Hugo here.md",
     "Digital Twin Prototypes",
     "GazaplatsenWiki/UNEJ.md",
-    "GazaplatsenWiki/MAPPING GAZAPLATSEN.md",
     "GazaplatsenWiki/László Sall Vesselényi.md",
     "GazaplatsenWiki/Liane Thuvander.md",
     "GazaplatsenWiki/KulturViz.md",
