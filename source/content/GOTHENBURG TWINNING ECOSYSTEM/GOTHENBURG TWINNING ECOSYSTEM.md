@@ -2,7 +2,7 @@
 
 
 #### [[Virtual Gothenburg]]
-![[VirtualGothemburg#Summary]]
+![[Virtual Gothenburg#Summary]]
 #### [[Virtual Gothenburg Lab]]
 ![[Virtual Gothenburg Lab#Summary]]
 #### [[KultViz]]
