@@ -1,0 +1,40 @@
+
+**OBJECTIVE:
+SIMULATE ALTERNATIVE OUTCOMES OF THE ENCAMPMENT THROUGH FICTIONAL GENERATIVE EXCHANGES BETWEEN KEY ACTOR ARCHETYPES.**
+
+Made with: [GODOT](https://godotengine.org/) + [CHATGPT](https://chatgpt.com/) in collaboration with [Mourdjen Bari](https://www.linkedin.com/in/mourdjen-bari-2ab20285).
+
+![[T3_UiMockups-04.png]]
+![[PosterTwins2_Midreview_Small-06.png]]
+
+#### V3 / CONSOLIDATING THE EXPERIENCE
+
+The “game” should really make it possible to obtain surprising results so Mourdjen and I are trying to find ways to make players understand how they are navigating the range of ideologies and the argumentation that support them.
+
+![[Screenshot 2025-03-19 204913.png]]
+![[Screenshot 2025-03-24 231513.png]]
+
+
+#### V2 / MINIMUM VIABLE INTERACTION
+
+The second prototype demonstrated the value and purpose of such a device. We started by focusing on 3 of the 7 actors and one site, the security tent. While the responses quickly got a bit repetitive, it was very interesting to see the three characters listen to each other while always trying to bring the conversation back to their point. Their was a bit of an uncanny valley effect to the whole experience.
+
+![[2024-11-29 14_37_42-(2).png]]
+
+![[Screenshot 2025-03-24 234606.png]]
+
+![[Screenshot 2025-03-24 234511.png]]
+
+#### V1 / MAPPING IDEOLOGIES
+
+The first prototype was created to test the basic structure of the simulation experience. It is inspired by [**this political compass**](https://www.reddit.com/r/DiscoElysium/comments/15d8uas/disco_elysium_political_compass/) of Disco Elysium’s exploration of NPCs’ ideologies.
+
+This prototype was created using discussions and moments I observed while being involved with the camp to map out the stances and possible motivations of of each actors for supporting or fighting the camp.
+
+![[Screenshot 2024-12-17 194422.png]]
+
+The hope here being to encourage a reflection on the value of deliberation in public spaces and the role the encampment played in creating such an environment.
+
+![[Screenshot 2024-12-17 194701.png]]
+
+![[Screenshot 2024-12-17 194349.png]]

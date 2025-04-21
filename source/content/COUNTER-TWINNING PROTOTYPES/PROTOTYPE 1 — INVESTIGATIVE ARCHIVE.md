@@ -1,0 +1,49 @@
+
+**OBJECTIVE:
+DOCUMENT THE EVOLUTION OF THE CAMP OVER TIME, AND THE INFLUENCE EXERTED OVER THE AREA BY CONFLICTING ACTORS AND VISIONS.**
+
+Made using: [**Touchdesigner**](https://derivative.ca/)
+
+![[Screenshot 2025-03-24 231435.png]]
+
+![[PosterTwins2_Midreview_Small-08.png]]
+
+
+
+#### V3 / VIOLENCE AT THE THRESHOLD OF DETECTABILITY
+
+The next and final step will be to gather videos and other visuals of the encampment to identify moments of abuse of power.
+
+![[Screenshot 2025-03-24 231435(1) 1.png]]
+![[SketchesUI001(1).jpg]]
+
+Screenshot of the juxtaposition of video footage with the ripped Google Maps 3D file.
+
+
+
+#### V2 / SPATIAL ANALYSIS
+
+The prototype has evolved to document the encampment through four key chapters of its 192 days life. NEGOTIATIONS / FLUCTUATIONS / OCCUPATION / EVICTION / DISSEMINATION.
+
+The spatial anaylsis served to document key forces and infrastructures that distinguished the camp from phase to phase, while also finding opportunities to document potential abuses of power from the university leadership.
+
+![[Screenshot 2025-03-24 231340 1.png]]
+
+Color coding of functions was applied to the 3D assets in order to see the camp’s evolution over time.
+
+![[GP_Maps_Days-01.png]]
+
+Each of the four maps were first created in 2D through image collation.
+
+#### V1 / RECONSTRUCTING THE TIMELINE
+
+https://vimeo.com/1029828218
+![[Screenshot 2024-12-17 193426.png]]
+![[Screenshot 2024-12-17 193407.png]]
+![[image(15).png]]
+
+![[20241105_112045(1)(1).jpg]]
+![[TwinProtos(1).jpg]]
+
+This prototype seeks to depict the evolution of the camp and the power negotiations it made possible over time. This has required a significant amount of time to be dedicated to the recreation of the timeline of the camp, building on the [**GUSP Instagram**](https://www.instagram.com/gustudentsforpalestine/) and [**Gatan Parlamant’s**](https://www.youtube.com/@GatansParlament) coverage of the movement, and discussions with GUSP members.
+
