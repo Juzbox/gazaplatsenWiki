@@ -1,41 +1,72 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "06d9af5cd28f75c9",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "a937bf5c7fb46656",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "900eeec618870a24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "12467b2b77e48fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af7182c00dc9fae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "MAPPING GAZAPLATSEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "MAPPING GAZAPLATSEN"
+            }
+          },
+          {
+            "id": "760a8b670a8e2a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inde"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "28bba1c2dc6acf28",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "321dce45602e8cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "d88b4bbb5cdd3451",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +79,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "2dc56dd9876330bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +96,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "e1bede7b7b124c13",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +112,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "540af1b41d285afa",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "da2c7d5022a2a591",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "93b183ac1a0d0485",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "inde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +135,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for inde"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "4c6304767d76b0d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "inde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from inde"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "4adb80d85af968be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +168,18 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "b9dd1544e9755753",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "inde.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of inde"
             }
           }
         ]
@@ -165,33 +196,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "760a8b670a8e2a3d",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "index2.md",
-    "Digital Twin Prototypes/Hugo here.md",
-    "Digital Twin Prototypes",
-    "GazaplatsenWiki/UNEJ.md",
-    "GazaplatsenWiki/MAPPING GAZAPLATSEN.md",
-    "GazaplatsenWiki/László Sall Vesselényi.md",
-    "GazaplatsenWiki/Liane Thuvander.md",
-    "GazaplatsenWiki/KulturViz.md",
-    "GazaplatsenWiki/KulturVis notes_12_04_2024.md",
-    "GazaplatsenWiki/KulturVis notes_11_19_2024.md",
-    "GazaplatsenWiki/KulturVis notes_03_17_2025.md",
-    "GazaplatsenWiki/KulturVis notes_03_10_2025.md",
-    "GazaplatsenWiki/KulturVis notes_02_26_2025.md",
-    "GazaplatsenWiki/KulturVis kick-off notes_10_17_2024.md",
-    "GazaplatsenWiki/Gothenburg Digital Twin.md",
-    "GazaplatsenWiki/Eric Jeansson.md",
-    "GazaplatsenWiki/Emilio Da Cruz Brandao.md",
-    "GazaplatsenWiki",
-    "category-folder"
+    "MAPPING GAZAPLATSEN.md",
+    "inde.md",
+    "Hugo here.md",
+    "László Sall Vesselényi.md",
+    "Eric Jeansson.md",
+    "Emilio Da Cruz Brandao.md",
+    "Liane Thuvander.md",
+    "Gothenburg Digital Twin.md",
+    "UNEJ.md",
+    "KulturViz.md",
+    "KulturVis notes_12_04_2024.md",
+    "KulturVis notes_11_19_2024.md",
+    "KulturVis notes_03_17_2025.md",
+    "KulturVis notes_03_10_2025.md",
+    "KulturVis notes_02_26_2025.md",
+    "KulturVis kick-off notes_10_17_2024.md"
   ]
 }
