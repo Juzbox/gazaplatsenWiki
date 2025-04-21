@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Digital Twin Prototypes/PROTOTYPE 2 — POWER MAPPING 1.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "PROTOTYPE 2 — POWER MAPPING 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Digital Twin Prototypes/PROTOTYPE 2 — POWER MAPPING 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for PROTOTYPE 2 — POWER MAPPING 1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Digital Twin Prototypes/PROTOTYPE 2 — POWER MAPPING 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from PROTOTYPE 2 — POWER MAPPING 1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Digital Twin Prototypes/PROTOTYPE 2 — POWER MAPPING 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of PROTOTYPE 2 — POWER MAPPING 1"
             }
           }
         ]
@@ -169,16 +169,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Screenshot 2025-03-24 231149.png",
+    "IMAGES/PosterTwins2_Midreview_Small-07.png",
+    "Digital Twin Prototypes/PROTOTYPE 1 — POWER MAPPING.md",
+    "Digital Twin Prototypes/PROTOTYPE 2 — POWER MAPPING 1.md",
+    "IMAGES/Screenshot 2025-03-24 231011.png",
+    "index.md",
+    "IMAGES/TwinProtos(1).jpg",
+    "IMAGES/20241105_112045(1)(1).jpg",
+    "IMAGES/image(15).png",
+    "IMAGES/Screenshot 2024-12-17 193407.png",
+    "IMAGES/Screenshot 2024-12-17 193426.png",
+    "IMAGES/GP_Maps_Days-01.png",
+    "IMAGES/Screenshot 2025-03-24 231340 1.png",
+    "IMAGES/SketchesUI001(1).jpg",
     "IMAGES",
     "GazaplatsenWiki/MAPPING GAZAPLATSEN.md",
-    "index.md",
-    "IMAGES/IntroSlides_HugoP(2)(1).jpg",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "index2.md",
-    "Digital Twin Prototypes/Hugo here.md",
     "Digital Twin Prototypes",
     "GazaplatsenWiki/UNEJ.md",
     "GazaplatsenWiki/László Sall Vesselényi.md",
