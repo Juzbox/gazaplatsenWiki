@@ -210,12 +210,12 @@ a {
       flex-direction: column;
       @media all and ($mobile) {
         margin-left: inherit;
-        margin-right: inherit;
+        margin-right: 0;
       }
       @media all and ($desktop) {
         position: initial;
         height: unset;
-        width: 100%;
+        width: 0%;
         flex-direction: row;
         padding: 0;
         & > * {
