@@ -228,7 +228,6 @@ a {
 
     & .center > article {
       grid-area: grid-center;
-  flex-shrink: 0;   // optional, but keeps width predictable
   padding-left: 1rem;
     }
 
