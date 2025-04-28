@@ -197,7 +197,7 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar" style="width: 40%;" >
+    <div class="left sidebar" >
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
