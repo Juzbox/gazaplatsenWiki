@@ -213,7 +213,7 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center" style="width: 60%;">
+            <div class="center">
               <div class="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
