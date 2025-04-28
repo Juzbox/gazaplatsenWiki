@@ -190,6 +190,9 @@ a {
 
     & .sidebar.left {
       z-index: 1;
+        width: 40%;
+  flex-shrink: 0;
+  padding-right: 1rem;
       grid-area: grid-sidebar-left;
       flex-direction: column;
       @media all and ($mobile) {
@@ -242,6 +245,9 @@ a {
 
     & .center > article {
       grid-area: grid-center;
+        width: 60%;
+  flex-shrink: 0;   // optional, but keeps width predictable
+  padding-left: 1rem;
     }
 
     & footer {
