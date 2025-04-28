@@ -6,12 +6,12 @@ html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
-  width: 70vw;
+  width: 100vw;
 }
 
 body,
 section {
-  margin: 0;
+  margin: 15vw;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
