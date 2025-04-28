@@ -5,6 +5,7 @@ Note_Type:
 tags:
   - UrbanDigitalTwin
   - Gothenburg
+  - tech
 ---
 ##### Summary
 
