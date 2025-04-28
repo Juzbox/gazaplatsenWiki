@@ -197,20 +197,13 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar">
+    <div class="left sidebar" >
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
     </div>
   )
 
-  const RightComponent = (
-    <div class="right sidebar">
-      {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
-    </div>
-  )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const doc = (
@@ -235,13 +228,13 @@ export function renderPage(
               </div>
               <Content {...componentData} />
               <hr />
-              <div class="page-footer">
+{               <div class="page-footer">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}
-              </div>
+              </div> }
             </div>
-            {RightComponent}
+            
             <Footer {...componentData} />
           </Body>
         </div>
