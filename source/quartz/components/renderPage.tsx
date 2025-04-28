@@ -228,11 +228,11 @@ export function renderPage(
               </div>
               <Content {...componentData} />
               <hr />
-{/*               <div class="page-footer">
+{               <div class="page-footer">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}
-              </div> */}
+              </div> }
             </div>
             
             <Footer {...componentData} />
