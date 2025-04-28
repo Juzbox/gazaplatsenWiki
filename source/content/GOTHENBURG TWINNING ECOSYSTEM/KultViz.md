@@ -6,6 +6,7 @@ tags:
   - UrbanDigitalTwin
   - Gothenburg
   - tech
+  - personal
 ---
 ##### Summary
 
