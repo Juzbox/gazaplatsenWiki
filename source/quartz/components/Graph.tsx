@@ -25,6 +25,24 @@ interface GraphOptions {
   globalGraph: Partial<D3Config> | undefined
 }
 
+const tagColors: Record<string, string> = {
+  "tech": "#ff7f0e",
+  "philosophy": "#1f77b4",
+  "personal": "#2ca02c",
+  "note": "#d62728",
+
+};
+
+function getColorForTags(tags: string[] | undefined): string {
+  if (!tags || tags.length === 0) return "#cccccc"; // Default color
+  for (const tag of tags) {
+    if (tagColors[tag]) {
+      return tagColors[tag];
+    }
+  }
+  return "#bbbbbb"; // fallback if none match
+}
+
 const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
@@ -36,7 +54,7 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
+    showTags: false,
     removeTags: [],
     focusOnHover: false,
   },
