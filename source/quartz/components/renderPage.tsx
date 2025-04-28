@@ -197,7 +197,7 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar">
+    <div class="left sidebar" style="width: 40%;" >
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -220,7 +220,7 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
+            <div class="center" style="width: 60%;">
               <div class="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
@@ -241,7 +241,7 @@ export function renderPage(
                 ))}
               </div>
             </div>
-            {RightComponent}
+            
             <Footer {...componentData} />
           </Body>
         </div>
