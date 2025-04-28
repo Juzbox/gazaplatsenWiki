@@ -190,6 +190,7 @@ a {
 
     & .sidebar.left {
       z-index: 1;
+      width: 30em;
   flex-shrink: 0;
   padding-right: 1rem;
       grid-area: grid-sidebar-left;
