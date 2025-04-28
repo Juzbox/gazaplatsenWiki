@@ -11,7 +11,8 @@ html {
 
 body,
 section {
-  margin: 15vw;
+  margin-left: 15vw;
+  margin-right: 15vw;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
