@@ -208,26 +208,7 @@ a {
     }
 
     & .sidebar.right {
-      grid-area: grid-sidebar-right;
-      margin-right: 0;
-      flex-direction: column;
-      @media all and ($mobile) {
-        margin-left: inherit;
-        margin-right: inherit;
-      }
-      @media all and ($desktop) {
-        position: initial;
-        height: unset;
-        width: 100%;
-        flex-direction: row;
-        padding: 0;
-        & > * {
-          flex: 1;
-        }
-        & > .toc {
-          display: none;
-        }
-      }
+   display: none;
     }
     & .page-header,
     & .page-footer {
