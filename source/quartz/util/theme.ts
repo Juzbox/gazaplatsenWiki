@@ -58,8 +58,8 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
   --casestudies: ${theme.colors.lightMode.casestudies};
-  --twinprototypes: ${theme.colors.lightMode.twinprototypes};
-  --softwares: ${theme.colors.lightMode.softwares};
+  --prototype: ${theme.colors.lightMode.prototype};
+  --tools: ${theme.colors.lightMode.tools};
   --database:${theme.colors.lightMode.database};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
@@ -79,8 +79,8 @@ ${stylesheet.join("\n\n")}
   --textHighlight: ${theme.colors.darkMode.textHighlight};
 
   --casestudies: ${theme.colors.darkMode.casestudies};
-  --twinprototypes: ${theme.colors.darkMode.twinprototypes};
-  --softwares: ${theme.colors.darkMode.softwares};
+  --prototype: ${theme.colors.darkMode.prototype};
+  --tools: ${theme.colors.darkMode.tools};
   --database:${theme.colors.darkMode.database};
   
 }
