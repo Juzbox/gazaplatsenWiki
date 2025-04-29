@@ -57,11 +57,10 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
-
-    --casestudies: ${theme.colors.lightMode.casestudies};
- -- twinprototypes: ${theme.colors.lightMode.twinprototypes};
- -- softwares: ${theme.colors.lightMode.softwares};
- -- database:${theme.colors.lightMode.database};
+  --casestudies: ${theme.colors.lightMode.casestudies};
+  --twinprototypes: ${theme.colors.lightMode.twinprototypes};
+  --softwares: ${theme.colors.lightMode.softwares};
+  --database:${theme.colors.lightMode.database};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
