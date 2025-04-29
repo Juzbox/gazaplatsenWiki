@@ -214,8 +214,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       return computedStyleMap["--secondary"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
-    } else if (d.id === "tags/casestudy") {
-    return computedStyleMap["--casestudy"]
+    } else if (d.id === "tags/casestudies") {
+    return computedStyleMap["--casestudies"]
   } else {
       return computedStyleMap["--gray"]
     }
