@@ -182,8 +182,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     "--darkgray",
     "--bodyFont",
     "--casestudies",
-    "--twinprototypes",
-    "--softwares",
+    "--prototype",
+    "--tools",
     "--database",
 
   ] as const
@@ -214,11 +214,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
  if (d.tags?.includes("casestudies")) {
     return computedStyleMap["--casestudies"]
   } else if (d.tags?.includes("tools")) {
-    return computedStyleMap["--softwares"]
+    return computedStyleMap["--tools"]
   } else if (d.tags?.includes("database")) {
     return computedStyleMap["--database"]
   } else if (d.tags?.includes("prototype")) {
-    return computedStyleMap["--twinprototypes"]
+    return computedStyleMap["--prototype"]
   }
  else {
     return computedStyleMap["--secondary"]
