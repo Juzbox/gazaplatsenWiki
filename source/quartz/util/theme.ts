@@ -11,7 +11,7 @@ export interface ColorScheme {
   casestudies: string
   twinprototypes: string
   softwares: string
-  database:string
+  database: string
 
   
 }
