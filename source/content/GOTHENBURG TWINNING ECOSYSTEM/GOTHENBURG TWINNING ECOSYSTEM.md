@@ -1,4 +1,9 @@
-
+---
+Note_Type:
+  - ResearchNotes
+tags:
+  - casestudies
+---
 
 
 #### [[Virtual Gothenburg]]

@@ -3,6 +3,7 @@ dg-publish: true
 Note_Type:
   - ResearchNotes
 tags:
+  - casestudies
 ---
 [[GOTHENBURG TWINNING ECOSYSTEM/KultViz]]
 
