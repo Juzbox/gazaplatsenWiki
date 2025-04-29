@@ -30,13 +30,13 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Wiki Structure",
     },
     footer: {
       createdWith: "Created with",
     },
     graph: {
-      title: "Graph View",
+      title: "Wiki System",
     },
     recentNotes: {
       title: "Recent Notes",
