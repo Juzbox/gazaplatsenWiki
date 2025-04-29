@@ -9,8 +9,8 @@ export interface ColorScheme {
   highlight: string
   textHighlight: string
   casestudies: string
-  twinprototypes: string
-  softwares: string
+  prototype: string
+  tools: string
   database: string
 
   
