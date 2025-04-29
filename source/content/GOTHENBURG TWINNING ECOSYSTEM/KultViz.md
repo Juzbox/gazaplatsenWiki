@@ -7,7 +7,7 @@ tags:
   - Gothenburg
   - tech
   - personal
-  - casestudy
+  - casestudies
 ---
 ##### Summary
 
