@@ -1,6 +1,4 @@
 ---
-Note_Type:
-  - ResearchNotes
 tags:
   - casestudies
 ---
@@ -11,5 +9,5 @@ tags:
 #### [[Virtual Gothenburg Lab]]
 ![[Virtual Gothenburg Lab#Summary]]
 #### [[KultViz]]
-![[GOTHENBURG TWINNING ECOSYSTEM/KultViz#Summary]]
+![[KultViz#Summary]]
 

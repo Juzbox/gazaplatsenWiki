@@ -1,3 +1,7 @@
+---
+tags:
+  - prototype
+---
 
 [[PROTOTYPE 1 — INVESTIGATIVE ARCHIVE]] 
 [[PROTOTYPE 2 — ONLINE MEMORIAL]] 

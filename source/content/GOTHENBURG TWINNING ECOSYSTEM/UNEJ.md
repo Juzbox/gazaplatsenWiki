@@ -1,6 +1,4 @@
 ---
-Note_Type:
-  - CaseStudy
 tags:
   - casestudies
 ---

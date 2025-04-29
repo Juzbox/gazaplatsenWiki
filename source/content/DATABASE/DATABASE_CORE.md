@@ -1,4 +1,7 @@
-
+---
+tags:
+  - database
+---
 
 | DAY     | DATE       | NOTES |     | GAZA UPDATES | CAMP DATA     |
 | ------- | ---------- | ----- | --- | ------------ | ------------- |

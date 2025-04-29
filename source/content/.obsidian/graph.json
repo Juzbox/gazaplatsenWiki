@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#database  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#prototype  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": true,
@@ -21,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.640625,
-  "repelStrength": 18.5416666666667,
+  "centerStrength": 0.541666666666667,
+  "repelStrength": 15.625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181638,
+  "scale": 0.38304578423746005,
   "close": false
 }

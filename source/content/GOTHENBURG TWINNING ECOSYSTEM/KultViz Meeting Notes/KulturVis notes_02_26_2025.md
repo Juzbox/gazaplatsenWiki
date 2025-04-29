@@ -5,7 +5,7 @@ Note_Type:
 tags:
   - casestudies
 ---
-[[GOTHENBURG TWINNING ECOSYSTEM/KultViz]]
+[[KultViz]]
 
 UX patterns of DTs?
 

@@ -1,7 +1,4 @@
 ---
-dg-publish: true
-Note_Type:
-  - CaseStudy
 tags:
   - casestudies
 ---
