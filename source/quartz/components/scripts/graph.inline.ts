@@ -209,7 +209,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 //
   // calculate color
   const color = (d: NodeData) => {
- if (d.id === "tags/casestudies") {
+ if (d.tags?.includes("casestudies")) {
     return computedStyleMap["--casestudies"]
   } else if (d.id.startsWith("tags/")) {
     return computedStyleMap["--tertiary"]
