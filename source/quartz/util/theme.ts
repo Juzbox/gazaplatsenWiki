@@ -8,6 +8,12 @@ export interface ColorScheme {
   tertiary: string
   highlight: string
   textHighlight: string
+  casestudies: string
+  twinprototypes: string
+  softwares: string
+  database:string
+
+  
 }
 
 interface Colors {
@@ -52,6 +58,11 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
+    --casestudies: ${theme.colors.lightMode.casestudies};
+ -- twinprototypes: ${theme.colors.lightMode.twinprototypes};
+ -- softwares: ${theme.colors.lightMode.softwares};
+ -- database:${theme.colors.lightMode.database};
+
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
@@ -67,6 +78,12 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+
+    --casestudies: ${theme.colors.darkMode.casestudies};
+ -- twinprototypes: ${theme.colors.darkMode.twinprototypes};
+ -- softwares: ${theme.colors.darkMode.softwares};
+ -- database:${theme.colors.darkMode.database};
+  
 }
 `
 }
