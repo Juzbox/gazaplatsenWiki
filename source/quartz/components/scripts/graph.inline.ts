@@ -195,6 +195,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
+
+  
   // // calculate color
   // const color = (d: NodeData) => {
   //   const isCurrent = d.id === slug
@@ -211,15 +213,23 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const color = (d: NodeData) => {
  if (d.tags?.includes("casestudies")) {
     return computedStyleMap["--casestudies"]
-  } else if (d.id.startsWith("tags/")) {
-    return computedStyleMap["--tertiary"]
-  } else if (visited.has(d.id)) {
-    return computedStyleMap["--tertiary"]
-  } else {
-    return computedStyleMap["--gray"]
+  } else if (d.tags?.includes("tools")) {
+    return computedStyleMap["--softwares"]
+  } else if (d.tags?.includes("database")) {
+    return computedStyleMap["--database"]
+  } else if (d.tags?.includes("prototype")) {
+    return computedStyleMap["--twinprototypes"]
+  }
+ else {
+    return computedStyleMap["--secondary"]
   }
   }
 
+ // casestudies: "#e7ff00",
+ //          twinprototypes: "#00ff98",
+ //          softwares: "#ff0068",
+ //          database:"#1800ff",
+  
     // "--casestudies",
     // "--twinprototypes",
     // "--softwares",
