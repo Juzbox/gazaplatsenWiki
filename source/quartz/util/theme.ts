@@ -78,10 +78,10 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
 
-    --casestudies: ${theme.colors.darkMode.casestudies};
- -- twinprototypes: ${theme.colors.darkMode.twinprototypes};
- -- softwares: ${theme.colors.darkMode.softwares};
- -- database:${theme.colors.darkMode.database};
+  --casestudies: ${theme.colors.darkMode.casestudies};
+  --twinprototypes: ${theme.colors.darkMode.twinprototypes};
+  --softwares: ${theme.colors.darkMode.softwares};
+  --database:${theme.colors.darkMode.database};
   
 }
 `
