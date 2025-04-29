@@ -5,7 +5,7 @@ Note_Type:
 tags:
   - casestudies
 ---
-[[KultViz]]
+[[3.2 KultViz]]
 
 Presentation from [[Erik Florberger]]
 - Plan proposed is one of 40 proposals

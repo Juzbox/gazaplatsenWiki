@@ -5,7 +5,7 @@ Note_Type:
 tags:
   - casestudies
 ---
-[[KultViz]]
+[[3.2 KultViz]]
 
 Reference meeting
 - artists, city, vastraffik, infravis

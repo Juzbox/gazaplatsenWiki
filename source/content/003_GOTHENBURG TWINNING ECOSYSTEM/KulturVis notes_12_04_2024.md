@@ -5,7 +5,7 @@ Note_Type:
 tags:
   - casestudies
 ---
-[[KultViz]]
+[[3.2 KultViz]]
 
 "The vision of the city planners is only the city, the cultural department needs its own language"
 

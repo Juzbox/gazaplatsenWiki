@@ -5,7 +5,7 @@ Note_Type:
 tags:
   - casestudies
 ---
-[[KultViz]]
+[[3.2 KultViz]]
 
 How to make the representation of culture useful in the planning process?
 Kultvis

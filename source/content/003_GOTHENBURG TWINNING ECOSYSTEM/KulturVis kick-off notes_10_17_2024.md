@@ -5,7 +5,7 @@ Note_Type:
 tags:
   - casestudies
 ---
-[[KultViz]]
+[[3.2 KultViz]]
 
 Chalmers x Goteborg Stad x Infravis x 
 
