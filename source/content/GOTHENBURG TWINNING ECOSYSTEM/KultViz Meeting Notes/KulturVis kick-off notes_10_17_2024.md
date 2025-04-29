@@ -25,14 +25,14 @@ Focus on creative industry, in Lindholmen in collaboration with the film studio
 - "what is the place of qualitative data in DTs?"
 - "Should this be 2D or 3D"
 - "What parameters do we have?" - 
-	- "how does one set of numbers relate to something else? We use indicators as technical proxies" - [[Marco Adelfio]]
+	- "how does one set of numbers relate to something else? We use indicators as technical proxies" - Marco Adelfio
 - Who needs what level of information? Expert v non-expert
 
 **CulturCity**
-- "A twin vs THE twin" - a leaf on a tree, and the tree is in the woods -- [[Barbara Ergstrom]] , a mirror of reality vs exact twin, this is with regards to the relationship between this DT and [[Gothenburg Digital Twin]]
+- "A twin vs THE twin" - a leaf on a tree, and the tree is in the woods -- Barbara Ergstrom , a mirror of reality vs exact twin, this is with regards to the relationship between this DT and [[Virtual Gothenburg]]
 - For cultural actors is it "harmless" to participate in the project or is there something to gain
-- "Accessibility is very interesting to city planning" -- [[Liane Thuvander]]
-- "We want to show this film studio links to a global community" -- [[Barbara Ergstrom]]
+- "Accessibility is very interesting to city planning" -- Liane Thuvander
+- "We want to show this film studio links to a global community" -- Barbara Ergstrom
 	- Reference to John Brian Harley's reflections on map making, "this becomes a discussion of power and ethics"
 - Should all data be public / open? There is a need for secrecy
 
