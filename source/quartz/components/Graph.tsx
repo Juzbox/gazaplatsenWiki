@@ -25,22 +25,6 @@ interface GraphOptions {
   globalGraph: Partial<D3Config> | undefined
 }
 
-const tagColors: Record<string, string> = {
-  "tech": "#ff7f0e",
-  "philosophy": "#1f77b4",
-  "personal": "#2ca02c",
-  "note": "#d62728",
-};
-
-function getColorForTags(tags: string[] | undefined): string {
-  if (!tags || tags.length === 0) return "#cccccc"; // Default color
-  for (const tag of tags) {
-    if (tagColors[tag]) {
-      return tagColors[tag];
-    }
-  }
-  return "#bbbbbb"; // fallback if none match
-}
 
 const defaultOptions: GraphOptions = {
   localGraph: {
@@ -73,39 +57,6 @@ const defaultOptions: GraphOptions = {
   },
 }
 
-const Legend = ({ tags }: { tags: string[] }) => {
-  return (
-    <div style={{
-      position: "absolute",
-      top: 20,
-      right: 20,
-      background: "rgba(255, 255, 255, 0.8)",
-      padding: "10px",
-      borderRadius: "8px",
-      boxShadow: "0 0 5px rgba(0,0,0,0.2)",
-      fontSize: "0.8rem",
-      zIndex: 1000,
-    }}>
-      <strong>Legend</strong>
-      <ul style={{ listStyle: "none", padding: 0, margin: "8px 0 0 0" }}>
-        {tags.map((tag) => (
-          <li key={tag} style={{ display: "flex", alignItems: "center", marginBottom: "4px" }}>
-            <span style={{
-              width: "12px",
-              height: "12px",
-              backgroundColor: tagColors[tag] ?? "#bbbbbb",
-              borderRadius: "50%",
-              display: "inline-block",
-              marginRight: "8px",
-            }}></span>
-            {tag}
-          </li>
-        ))}
-      </ul>
-    </div>
-  )
-}
-
 export default ((opts?: GraphOptions) => {
   const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
@@ -113,8 +64,7 @@ export default ((opts?: GraphOptions) => {
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
-        <div class="graph-outer" style={{ position: "relative" }}>
-          <Legend tags={Object.keys(tagColors)} />
+        <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <button id="global-graph-icon" aria-label="Global Graph">
             <svg
