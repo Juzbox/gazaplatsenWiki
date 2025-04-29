@@ -209,16 +209,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
   // calculate color
   const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else if (d.id === "tags/casestudies") {
+ if (d.id === "tags/casestudies") {
     return computedStyleMap["--casestudies"]
+  } else if (d.id.startsWith("tags/")) {
+    return computedStyleMap["--tertiary"]
+  } else if (visited.has(d.id)) {
+    return computedStyleMap["--tertiary"]
   } else {
-      return computedStyleMap["--gray"]
-    }
+    return computedStyleMap["--gray"]
+  }
   }
 
     // "--casestudies",
