@@ -1,3 +1,7 @@
+---
+title: Welcome to the wiki!
+---
+
 ![[IntroSlides_HugoP(2)(1).jpg]]
 
 
