@@ -1,5 +1,5 @@
 ---
-title: _
+title: 🍉
 ---
 
 ![[IntroSlides_HugoP(2)(1).jpg]]
