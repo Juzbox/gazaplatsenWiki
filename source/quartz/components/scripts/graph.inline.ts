@@ -208,23 +208,23 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // }
 
 const color = (d: NodeData) => {
-  const isCurrent = d.id === slug;
+  const isCurrent = d.id === slug
   if (isCurrent) {
-    return computedStyleMap["--current"];
+    return computedStyleMap["--current"]
   } else if (/^casestudies\//.test(d.id)) {
-    return computedStyleMap["--casestudies"];
+    return computedStyleMap["--casestudies"]
   } else if (/^twinprototypes\//.test(d.id)) {
-    return computedStyleMap["--twinprototypes"];
+    return computedStyleMap["--twinprototypes"]
     } else if (/^softwares\//.test(d.id)) {
-    return computedStyleMap["--softwares"];
+    return computedStyleMap["--softwares"]
         } else if (/^database\//.test(d.id)) {
-    return computedStyleMap["--database"];
+    return computedStyleMap["--database"]
   } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-    return computedStyleMap["--tertiary"];
+    return computedStyleMap["--tertiary"]
   } else {
-    return computedStyleMap["--gray"];
+    return computedStyleMap["--gray"]
   }
-};
+}
 
     // "--casestudies",
     // "--twinprototypes",
