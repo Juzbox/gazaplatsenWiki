@@ -29,7 +29,7 @@ Focus on creative industry, in Lindholmen in collaboration with the film studio
 - Who needs what level of information? Expert v non-expert
 
 **CulturCity**
-- "A twin vs THE twin" - a leaf on a tree, and the tree is in the woods -- Barbara Ergstrom , a mirror of reality vs exact twin, this is with regards to the relationship between this DT and [[Virtual Gothenburg]]
+- "A twin vs THE twin" - a leaf on a tree, and the tree is in the woods -- Barbara Ergstrom , a mirror of reality vs exact twin, this is with regards to the relationship between this DT and [[3.1 Virtual Gothenburg]]
 - For cultural actors is it "harmless" to participate in the project or is there something to gain
 - "Accessibility is very interesting to city planning" -- Liane Thuvander
 - "We want to show this film studio links to a global community" -- Barbara Ergstrom
