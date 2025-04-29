@@ -181,6 +181,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     "--dark",
     "--darkgray",
     "--bodyFont",
+    "--casestudies",
+    "--twinprototypes",
+    "--softwares",
+    "--database",
+
   ] as const
   const computedStyleMap = cssVars.reduce(
     (acc, key) => {
@@ -190,17 +195,41 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color
-  const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
-    }
+  // // calculate color
+  // const color = (d: NodeData) => {
+  //   const isCurrent = d.id === slug
+  //   if (isCurrent) {
+  //     return computedStyleMap["--secondary"]
+  //   } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+  //     return computedStyleMap["--tertiary"]
+  //   } else {
+  //     return computedStyleMap["--gray"]
+  //   }
+  // }
+
+const color = (d: NodeData) => {
+  const isCurrent = d.id === slug;
+  if (isCurrent) {
+    return computedStyleMap["--current"];
+  } else if (/^casestudies\//.test(d.id)) {
+    return computedStyleMap["--casestudies"];
+  } else if (/^twinprototypes\//.test(d.id)) {
+    return computedStyleMap["--twinprototypes"];
+    } else if (/^softwares\//.test(d.id)) {
+    return computedStyleMap["--softwares"];
+        } else if (/^database\//.test(d.id)) {
+    return computedStyleMap["--database"];
+  } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    return computedStyleMap["--tertiary"];
+  } else {
+    return computedStyleMap["--gray"];
   }
+};
+
+    // "--casestudies",
+    // "--twinprototypes",
+    // "--softwares",
+    // "--database",
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
