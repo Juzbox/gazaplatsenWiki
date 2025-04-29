@@ -39,8 +39,8 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
           casestudies: "#bed21a",
-          twinprototypes: "#2d4234",
-          softwares: "#322f3b",
+          prototype: "#2d4234",
+          tools: "#322f3b",
           database:"#f05b83",
         },
         darkMode: {
@@ -55,8 +55,8 @@ const config: QuartzConfig = {
           textHighlight: "#b3aa0288",
           
           casestudies: "#e7ff00",
-          twinprototypes: "#00ff98",
-          softwares: "#ff0068",
+          prototype: "#00ff98",
+          tools: "#ff0068",
           database:"#1800ff",
         },
       },
