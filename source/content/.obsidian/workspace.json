@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "ea728d218b23af99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liane Thuvander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liane Thuvander"
-            }
-          },
-          {
             "id": "72d687532a1e0288",
             "type": "leaf",
             "state": {
@@ -225,17 +211,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea728d218b23af99",
+  "active": "72d687532a1e0288",
   "lastOpenFiles": [
+    "index.md",
+    "004_PRACTITIONERS & ORGS/Liane Thuvander.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.4 Digital Twin Cities Centre.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 Virtual Gothenburg Lab.md",
-    "Liane Thuvander.md",
-    "index.md",
-    "Gothenburg Film Studios.md",
+    "006_SITES/Gothenburg Film Studios.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.2 KultVis.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.0 GOTHENBURG TWINNING ECOSYSTEM.md",
     "004_PRACTITIONERS & ORGS/Visual Arena.md",
-    "Lindholmen Science Park.md",
+    "006_SITES/Lindholmen Science Park.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.1 Virtual Gothenburg.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
     "006_SITES",
