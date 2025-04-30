@@ -2,7 +2,7 @@
 tags:
   - casestudies
 ---
-[[3.2 KultViz]]
+[[3.2 KultVis]]
 
 UX patterns of DTs?
 
