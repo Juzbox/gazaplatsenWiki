@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#practitioners  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#site  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +60,6 @@
   "repelStrength": 15.625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38304578423746005,
+  "scale": 0.2732171589575507,
   "close": false
 }
