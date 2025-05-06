@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1.0 COUNTER-TWINNING PROTOTYPES"
             }
           }
         ],
@@ -241,6 +241,13 @@
   },
   "active": "c2f8efb31529a231",
   "lastOpenFiles": [
+    "Protocovers-03 1.png",
+    "Protocovers-02 1.png",
+    "Protocovers-01 1.png",
+    "Protocovers-03.png",
+    "Protocovers-02.png",
+    "Protocovers-01.png",
+    "index.md",
     "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
@@ -257,7 +264,6 @@
     "IMAGES/FF4-1024x576.png",
     "IMAGES/Screenshot 2025-05-06 004423.png",
     "IMAGES/Screenshot 2025-03-04 142526.png",
-    "index.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Blender.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/BLOSM.md",
     "005_TOOLS & REPOSITORIES/🌿 REPOSITORIES.md",
@@ -273,7 +279,6 @@
     "001_COUNTER-TWINNING PROTOTYPES/Counter-cartography.md",
     "004_PRACTITIONERS & ORGS/Visual Arena.md",
     "004_PRACTITIONERS & ORGS/Rob Kitchin.md",
-    "004_PRACTITIONERS & ORGS/Liane Thuvander.md",
     "006_SITES",
     "004_PRACTITIONERS & ORGS",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Extras",
@@ -281,11 +286,6 @@
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.2 Virtual Gothenburg Lab",
     "002_GAZAPLATSEN DATABASE",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 KultViz Meeting Notes",
-    "IMAGES/Screenshot 2024-12-17 194349.png",
-    "IMAGES/Screenshot 2024-12-17 194701.png",
-    "IMAGES/Screenshot 2024-12-17 194422.png",
-    "IMAGES/Screenshot 2025-03-24 234511.png",
-    "IMAGES/Screenshot 2025-03-24 234606.png",
-    "IMAGES/2024-11-29 14_37_42-(2).png"
+    "IMAGES/Screenshot 2024-12-17 194349.png"
   ]
 }
