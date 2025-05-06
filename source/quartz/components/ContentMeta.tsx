@@ -42,6 +42,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
+      if (website) {
+      const hostname = new URL(website).hostname
+      segments.push(
+        <a href={website} target="_blank" rel="noopener noreferrer" class="content-meta-link">
+          {hostname}
+        </a>
+      )
+    }
+
+
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
       return (
