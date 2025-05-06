@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const website = fileData.frontmatter?.website
+  const website = fileData.frontmatter?.Website
   const baseDir = pathToRoot(fileData.slug!)
 
   if (website) {
