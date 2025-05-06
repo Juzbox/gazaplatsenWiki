@@ -1,23 +1,19 @@
-import { pathToRoot, slugTag } from "../util/path"
+import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const tags = fileData.frontmatter?.tags
+const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+  const website = fileData.frontmatter?.website
   const baseDir = pathToRoot(fileData.slug!)
-  if (tags && tags.length > 0) {
+
+  if (website) {
     return (
       <ul class={classNames(displayClass, "tags")}>
-        {tags.map((tag) => {
-          const linkDest = baseDir + `/tags/${slugTag(tag)}`
-          return (
-            <li>
-              <a href={linkDest} class="internal tag-link">
-                {tag}
-              </a>
-            </li>
-          )
-        })}
+        <li>
+          <a href={website} class="internal tag-link" target="_blank" rel="noopener noreferrer">
+            Visit Website
+          </a>
+        </li>
       </ul>
     )
   } else {
@@ -25,7 +21,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   }
 }
 
-TagList.css = `
+WebsiteTag.css = `
 .tags {
   list-style: none;
   display: flex;
@@ -52,7 +48,9 @@ a.internal.tag-link {
   background-color: var(--highlight);
   padding: 0.2rem 0.4rem;
   margin: 0 0.1rem;
+  text-decoration: none;
+  font-weight: 500;
 }
 `
 
-export default (() => TagList) satisfies QuartzComponentConstructor
+export default (() => WebsiteTag) satisfies QuartzComponentConstructor
