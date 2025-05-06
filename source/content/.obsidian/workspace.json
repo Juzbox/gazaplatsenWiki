@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
+                "file": "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 INVESTIGATIVE ARCHIVE"
+              "title": "GAZAPLATSEN DATABASE"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "c2f8efb31529a231",
   "lastOpenFiles": [
-    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
+    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.3 CONVERSATION SIMULATOR.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.2 ONLINE MEMORIAL.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Extras/Co-Exist 2.md",
