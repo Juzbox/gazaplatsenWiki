@@ -2,15 +2,13 @@ import { pathToRoot, slugTag } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const WebsiteAndTags: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const tags = fileData.frontmatter?.tags
-  const website = fileData.frontmatter?.website
   const baseDir = pathToRoot(fileData.slug!)
-
-  if ((tags && tags.length > 0) || website) {
+  if (tags && tags.length > 0) {
     return (
       <ul class={classNames(displayClass, "tags")}>
-        {tags?.map((tag) => {
+        {tags.map((tag) => {
           const linkDest = baseDir + `/tags/${slugTag(tag)}`
           return (
             <li>
@@ -20,19 +18,6 @@ const WebsiteAndTags: QuartzComponent = ({ fileData, displayClass }: QuartzCompo
             </li>
           )
         })}
-
-        {website && (
-          <li>
-            <a
-              href={website}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="external website-link"
-            >
-              {new URL(website).hostname}
-            </a>
-          </li>
-        )}
       </ul>
     )
   } else {
@@ -40,7 +25,7 @@ const WebsiteAndTags: QuartzComponent = ({ fileData, displayClass }: QuartzCompo
   }
 }
 
-WebsiteAndTags.css = `
+TagList.css = `
 .tags {
   list-style: none;
   display: flex;
@@ -62,22 +47,12 @@ WebsiteAndTags.css = `
   overflow-wrap: normal;
 }
 
-a.internal.tag-link,
-a.external.website-link {
+a.internal.tag-link {
   border-radius: 8px;
+  background-color: var(--highlight);
   padding: 0.2rem 0.4rem;
   margin: 0 0.1rem;
-  text-decoration: none;
-  color: white;
-}
-
-a.internal.tag-link {
-  background-color: var(--highlight);
-}
-
-a.external.website-link {
-  background-color: var(--accent);
 }
 `
 
-export default (() => WebsiteAndTags) satisfies QuartzComponentConstructor
+export default (() => TagList) satisfies QuartzComponentConstructor
