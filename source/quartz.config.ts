@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "MAPPING GAZAPLATSEN WIKI",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Mapping Gazaplatsen is an attempt at exploring how Counter-cartography can inform the way urban digital twins can be used to challenge normative, market-driven, and often anti-democratic approaches to urban digital twinning.",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
