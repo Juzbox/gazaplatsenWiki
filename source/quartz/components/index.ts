@@ -23,6 +23,7 @@ import Comments from "./Comments"
 
 export {
   ArticleTitle,
+  WebsiteTag,
   Content,
   TagContent,
   FolderContent,
