@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const website = fileData.frontmatter?.website
+  const website = fileData.frontmatter?.Website
 
   if (website) {
     // Remove fragment/hash (#...) from the display text, but keep the full URL for href
