@@ -1,17 +1,18 @@
-import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
 const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const website = fileData.frontmatter?.Website
-  const baseDir = pathToRoot(fileData.slug!)
+  const website = fileData.frontmatter?.website
 
   if (website) {
+    // Remove fragment/hash (#...) from the display text, but keep the full URL for href
+    const displayText = website.split("#")[0]
+
     return (
       <ul class={classNames(displayClass, "tags")}>
         <li>
           <a href={website} class="internal tag-link" target="_blank" rel="noopener noreferrer">
-            🔗 WEBSITE
+            {displayText}
           </a>
         </li>
       </ul>
@@ -45,11 +46,9 @@ WebsiteTag.css = `
 
 a.internal.tag-link {
   border-radius: 8px;
-  background-color: #34eb9b;
+  background-color: var(--highlight);
   padding: 0.2rem 0.4rem;
   margin: 0 0.1rem;
-  text-decoration: none;
-  font-weight: 500;
 }
 `
 
