@@ -487,11 +487,11 @@ p {
 
     th,
     td {
-      min-width: 75px;
+      min-width: 25px;
     }
 
     & > * {
-      line-height: 2rem;
+      line-height: 1.4rem;
     }
   }
 }
@@ -500,10 +500,16 @@ th {
   text-align: left;
   padding: 0.4rem 0.7rem;
   border-bottom: 2px solid var(--gray);
+
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
 }
 
 td {
   padding: 0.2rem 0.7rem;
+  vertical-align: top;
 }
 
 tr {
