@@ -6,7 +6,6 @@
       {
         "id": "0571c1c94d829fac",
         "type": "tabs",
-        "dimension": 52.79187817258884,
         "children": [
           {
             "id": "748ba90f0fb1db10",
@@ -37,20 +36,6 @@
             }
           },
           {
-            "id": "3687ebd7a0ddfa82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLOSM.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "BLOSM"
-            }
-          },
-          {
             "id": "c2f8efb31529a231",
             "type": "leaf",
             "state": {
@@ -65,24 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "f76c7118e250f3d9",
-        "type": "tabs",
-        "dimension": 47.20812182741117,
-        "children": [
-          {
-            "id": "e33b6dba31e569c8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,32 +208,33 @@
   },
   "active": "c2f8efb31529a231",
   "lastOpenFiles": [
-    "Protocovers-03 1.png",
-    "Protocovers-02 1.png",
-    "Protocovers-01 1.png",
-    "Protocovers-03.png",
-    "Protocovers-02.png",
-    "Protocovers-01.png",
+    "20250113_130712.jpg",
+    "20250116_155756.jpg",
+    "20241023_130201(1).jpg",
+    "Screenshot 2025-05-06 135702.png",
+    "Screenshot 2025-05-06 135458.png",
+    "20250325_131723.jpg",
+    "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
+    "005_TOOLS & REPOSITORIES/🌿 REPOSITORIES.md",
+    "GP_Maps_Days-04.png",
+    "GP_Maps_Days-03.png",
+    "GP_Maps_Days-02_SMALL.png",
+    "GP_Maps_Days-02.png",
+    "GP_Maps_Days-01.png",
+    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
     "index.md",
     "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.3 CONVERSATION SIMULATOR.md",
     "001_COUNTER-TWINNING PROTOTYPES/1.2 ONLINE MEMORIAL.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Extras/Co-Exist 2.md",
-    "Screenshot 2025-04-07 001033.png",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Min Karta Lantmateriet.md",
     "006_SITES/Lindholmen Science Park.md",
     "006_SITES/Gazaplatsen.md",
     "006_SITES/Gothenburg Film Studios.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.5 UNEJ.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.6 Future Frictions.md",
-    "IMAGES/FF4-1024x576.png",
-    "IMAGES/Screenshot 2025-05-06 004423.png",
-    "IMAGES/Screenshot 2025-03-04 142526.png",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Blender.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/BLOSM.md",
-    "005_TOOLS & REPOSITORIES/🌿 REPOSITORIES.md",
     "005_TOOLS & REPOSITORIES/REPOSITORIES/TimeViz Browser.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Touchdesigner.md",
     "005_TOOLS & REPOSITORIES/REPOSITORIES/Tira Zain.md",
@@ -285,7 +253,6 @@
     "005_TOOLS & REPOSITORIES",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.2 Virtual Gothenburg Lab",
     "002_GAZAPLATSEN DATABASE",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 KultViz Meeting Notes",
-    "IMAGES/Screenshot 2024-12-17 194349.png"
+    "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 KultViz Meeting Notes"
   ]
 }
