@@ -272,3 +272,8 @@ export function renderPage(
 
   return "<!DOCTYPE html>\n" + render(doc)
 }
+
+  )
+
+  return "<!DOCTYPE html>\n" + render(doc)
+}
