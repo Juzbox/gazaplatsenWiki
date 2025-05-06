@@ -6,7 +6,7 @@ const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponent
 
   if (website) {
     // Remove fragment/hash (#...) from the display text, but keep the full URL for href
-    const displayText = website.split("#")[1]
+    const displayText = website.split("#")[0]
 
     return (
       <ul class={classNames(displayClass, "tags")}>
