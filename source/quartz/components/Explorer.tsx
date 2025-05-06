@@ -85,7 +85,7 @@ export default ((userOpts?: Partial<Options>) => {
     }
 
     return (
-      <div class={classNames(displayClass, "WIKI STRUCTURE")}>
+      <div class={classNames(displayClass, "🗂️ WIKI STRUCTURE")}>
         <button
           type="button"
           id="explorer"
