@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.Graph(),
     Component.Breadcrumbs(),
-     Component.Explorer(),
+     
   ],
   footer: Component.Footer({
     links: {
@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
   //   //Component.DesktopOnly(Component.TableOfContents()),
   //   Component.Backlinks(),
-    
+    Component.Explorer(),
   ],
 }
 
