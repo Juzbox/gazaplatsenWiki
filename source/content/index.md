@@ -1,5 +1,5 @@
 ---
-title: Welcome to the wiki!
+title: Welcome to the mapping Gazaplatsen wiki!
 ---
 
 ![[IntroSlides_HugoP(2)(1).jpg]]
