@@ -11,7 +11,7 @@ const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponent
       <ul class={classNames(displayClass, "tags")}>
         <li>
           <a href={website} class="internal tag-link" target="_blank" rel="noopener noreferrer">
-            Visit Website
+            🔗 WEBSITE
           </a>
         </li>
       </ul>
@@ -45,7 +45,7 @@ WebsiteTag.css = `
 
 a.internal.tag-link {
   border-radius: 8px;
-  background-color: var(--highlight);
+  background-color: #34eb9b;
   padding: 0.2rem 0.4rem;
   margin: 0 0.1rem;
   text-decoration: none;
