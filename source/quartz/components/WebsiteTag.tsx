@@ -1,23 +1,20 @@
-import { pathToRoot, slugTag } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const tags = fileData.frontmatter?.tags
-  const baseDir = pathToRoot(fileData.slug!)
-  if (tags && tags.length > 0) {
+const WebsiteTag: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+  const website = fileData.frontmatter?.Website
+
+  if (website) {
+    // Remove fragment/hash (#...) from the display text, but keep the full URL for href
+    const displayText = website.split("#")[0]
+
     return (
       <ul class={classNames(displayClass, "tags")}>
-        {tags.map((tag) => {
-          const linkDest = baseDir + `/tags/${slugTag(tag)}`
-          return (
-            <li>
-              <a href={linkDest} class="internal tag-link">
-                {tag}
-              </a>
-            </li>
-          )
-        })}
+        <li>
+          <a href={website} class="internal tag-link" target="_blank" rel="noopener noreferrer">
+            {displayText}
+          </a>
+        </li>
       </ul>
     )
   } else {
@@ -25,7 +22,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   }
 }
 
-TagList.css = `
+WebsiteTag.css = `
 .tags {
   list-style: none;
   display: flex;
@@ -55,4 +52,4 @@ a.internal.tag-link {
 }
 `
 
-export default (() => TagList) satisfies QuartzComponentConstructor
+export default (() => WebsiteTag) satisfies QuartzComponentConstructor

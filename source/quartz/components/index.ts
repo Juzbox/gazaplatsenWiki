@@ -20,9 +20,11 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import WebsiteTag from "./WebsiteTag"
 
 export {
   ArticleTitle,
+  WebsiteTag,
   Content,
   TagContent,
   FolderContent,
