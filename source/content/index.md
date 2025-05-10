@@ -1,7 +1,7 @@
 ---
 title: 🍉⛺🔻🌿
 ---
-![[IntroSlides_HugoP(2)(1).jpg]]
+![[IntroWkiGP.gif]]
 ### 🗂️ ABOUT THE PROJECT
 Mapping Gazaplatsen is an attempt at exploring how [[Counter-cartography]] can inform the way urban digital twins can be used to challenge normative, market-driven, and often anti-democratic approaches to urban digital twinning. 
 
