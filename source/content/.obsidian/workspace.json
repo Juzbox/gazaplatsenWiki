@@ -8,87 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2f8efb31529a231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library_3Dscan_23102024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Library_3Dscan_23102024"
-            }
-          },
-          {
-            "id": "75c231f54a4a4f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Massgrave_3Dscan_11042024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Massgrave_3Dscan_11042024"
-            }
-          },
-          {
-            "id": "127886abf6d4babc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kitchen_3Dscan_10042024.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kitchen_3Dscan_10042024"
-            }
-          },
-          {
-            "id": "0df16f0efc5f7ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firepit_3Dscan_11182024.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Firepit_3Dscan_11182024"
-            }
-          },
-          {
-            "id": "7e4ee6c6c8a9210b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Police security camera perfit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Police security camera perfit"
-            }
-          },
-          {
             "id": "8463fbc33cd99db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/3.5 UNEJ.md",
+                "file": "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 UNEJ"
+              "title": "1.0 COUNTER-TWINNING PROTOTYPES"
             }
           }
         ]
@@ -247,53 +177,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2f8efb31529a231",
+  "active": "8463fbc33cd99db0",
   "lastOpenFiles": [
-    "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
+    "protosCart.png",
+    "002_GAZAPLATSEN DATABASE/2.0_GAZAPLATSEN DATABASE.md",
+    "002_GAZAPLATSEN DATABASE/MeetingTent_11202024_3Dscan.md",
+    "MeetingTent_1120.md",
+    "002_GAZAPLATSEN DATABASE/T547-24 Göteborg_digitized.pdf",
+    "002_GAZAPLATSEN DATABASE/Police security camera perfit.md",
+    "002_GAZAPLATSEN DATABASE/Police permit - Manifestation for peace and cohesion in Gothenburg.md",
+    "002_GAZAPLATSEN DATABASE/Notice against fires.md",
+    "002_GAZAPLATSEN DATABASE/NegotiationsSummary-1.pdf",
+    "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1-1.pdf",
+    "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1.pdf",
+    "002_GAZAPLATSEN DATABASE/Massgrave_3Dscan_11042024.md",
+    "002_GAZAPLATSEN DATABASE/Library_3Dscan_23102024.md",
+    "002_GAZAPLATSEN DATABASE/Kitchen_3Dscan_10042024.md",
+    "002_GAZAPLATSEN DATABASE/InfoTent_3Dscan_10042024.md",
+    "002_GAZAPLATSEN DATABASE/GUSP Negotiation Summary.md",
+    "002_GAZAPLATSEN DATABASE/Firepit_3Dscan_11182024.md",
+    "IMAGES/signal-2025-05-06-203305_002.jpeg",
+    "IMAGES/signal-2025-05-06-203305_002(1).jpeg",
+    "IMAGES/Screenshot 2025-05-08 230942.png",
+    "IMAGES/Screenshot 2025-04-07 000343.png",
+    "IMAGES/Screenshot 2025-04-07 000343 1.png",
+    "IMAGES/Screenshot 2025-04-06 235534.png",
+    "IMAGES/Screenshot 2025-04-06 235534 1.png",
+    "IMAGES/Screenshot 2025-04-06 113056.png",
+    "IMAGES/protosCart.png",
+    "MeetingTent_11202024.md",
+    "InfoTent_3Dscan_10042024.md",
+    "Police permit - Manifestation for peace and cohesion in Gothenburg.md",
     "Massgrave_3Dscan_11042024.md",
-    "Firepit_3Dscan_11182024.md",
     "Library_3Dscan_23102024.md",
+    "Firepit_3Dscan_11182024.md",
     "Kitchen_3Dscan_10042024.md",
     "Police security camera perfit.md",
     "GUSP Negotiation Summary.md",
     "T547-24 Göteborg_digitized.pdf",
-    "Police permit - Manifestation for peace and cohesion in Gothenburg.md",
     "[Läsläge] Tillståndsbevis-1.pdf",
     "[Läsläge] Tillståndsbevis-1-1.pdf",
     "Notice against fires.md",
     "MiljoVis.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.2 KultVis.md",
     "signal-2025-05-06-203305_002.jpeg",
-    "signal-2025-05-06-203305_002(1).jpeg",
     "NegotiationsSummary-1.pdf",
     "003_GOTHENBURG TWINNING ECOSYSTEM/3.5 UNEJ.md",
-    "protosCart.png",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.1 Virtual Gothenburg.md",
-    "Screenshot 2025-04-07 000343 1.png",
-    "Screenshot 2025-04-06 235534 1.png",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 Virtual Gothenburg Lab.md",
-    "Screenshot 2025-04-07 000343.png",
-    "Screenshot 2025-04-06 235534.png",
-    "Screenshot 2025-04-06 113056.png",
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-CARTOGRAPHY.md",
-    "001_COUNTER-TWINNING PROTOTYPES/Counter-TWINNING.md",
-    "Screenshot 2025-05-06 135702.png",
-    "Screenshot 2025-05-08 230942.png",
-    "index.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.3 CONVERSATION SIMULATOR.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.2 ONLINE MEMORIAL.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/Extras/CoExist 2.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/Extras/Social sustainability in urban development.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/Extras/KulturVis notes_03_17_2025.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/Extras/MiljoVis.md",
-    "005_TOOLS & REPOSITORIES/REPOSITORIES/Tira Zain.md",
     "005_TOOLS & REPOSITORIES/REPOSITORIES",
-    "005_TOOLS & REPOSITORIES/METHODS",
-    "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES",
-    "006_SITES",
-    "004_PRACTITIONERS & ORGS",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/Extras"
+    "005_TOOLS & REPOSITORIES/METHODS"
   ]
 }

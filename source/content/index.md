@@ -8,7 +8,7 @@ Mapping Gazaplatsen is an attempt at exploring how [[COUNTER-CARTOGRAPHY]] can i
 The project does so by exploring different ways of mapping a specific site, [[Gazaplatsen]], over the course of the 192 days of its existence thanks to the joined efforts of [**Gothenburg University Students for Palestine**](https://www.instagram.com/gustudentsforpalestine/), [**Social Justice Chalmers**](https://www.instagram.com/chalmers.social.justice/), and support from various local organizations.
 
 
-This wiki, serves as a sketchbook and a repository for my. In it you will find a non-exhaustive [[GAZAPLATSEN DATABASE]] of videos, images, events, 3D scans from Gazaplatsen, which were used in various ways in the three [[1.0 COUNTER-TWINNING PROTOTYPES]]. You will also be able to see how these prototypes connect to key parts of the [[3.0 GOTHENBURG TWINNING ECOSYSTEM]].
+This wiki, serves as a sketchbook and a repository for my. In it you will find a non-exhaustive [[2.0_GAZAPLATSEN DATABASE]] of videos, images, events, 3D scans from Gazaplatsen, which were used in various ways in the three [[1.0 COUNTER-TWINNING PROTOTYPES]]. You will also be able to see how these prototypes connect to key parts of the [[3.0 GOTHENBURG TWINNING ECOSYSTEM]].
 
 The project was developed by me, [Hugo Pilate](https://hugopilate.com/), in the context of my [Design Masters thesis](https://www.gu.se/en/study-gothenburg/mfa-programme-in-design-k2den) at HDK-Valand in Gothenburg University.
 
