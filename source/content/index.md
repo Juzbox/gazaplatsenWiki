@@ -3,7 +3,7 @@ title: 🍉⛺🔻🌿
 ---
 ![[IntroWkiGP.gif]]
 ### 🗂️ ABOUT THE PROJECT
-Mapping Gazaplatsen is an attempt at exploring how [[Counter-cartography]] can inform the way urban digital twins can be used to challenge normative, market-driven, and often anti-democratic approaches to urban digital twinning. 
+Mapping Gazaplatsen is an attempt at exploring how [[COUNTER-CARTOGRAPHY]] can inform the way urban digital twins can be used to challenge normative, market-driven, and often anti-democratic approaches to urban digital twinning. 
 
 The project does so by exploring different ways of mapping a specific site, [[Gazaplatsen]], over the course of the 192 days of its existence thanks to the joined efforts of [**Gothenburg University Students for Palestine**](https://www.instagram.com/gustudentsforpalestine/), [**Social Justice Chalmers**](https://www.instagram.com/chalmers.social.justice/), and support from various local organizations.
 

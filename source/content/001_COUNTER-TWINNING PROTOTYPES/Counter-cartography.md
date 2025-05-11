@@ -3,7 +3,9 @@ tags:
   - tools
 ---
 
-Expert from Forensic Architecture: Violence at the Threshold of Detectability by Eyal Weizman 
+
+
+Excerpt from Forensic Architecture: Violence at the Threshold of Detectability by Eyal Weizman 
 
 "Edward Said wrote critically about the imperial use of cartography: “In the
 history of colonial invasions maps are always first drawn by the victors,
