@@ -1,6 +1,6 @@
 ---
 tags:
-  - documents
+  - database
 ---
 ![[[Läsläge] Tillståndsbevis-1.pdf]]
 

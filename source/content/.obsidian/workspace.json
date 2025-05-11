@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/3.6 Social sustainability in urban development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 COUNTER-TWINNING PROTOTYPES"
+              "title": "3.6 Social sustainability in urban development"
+            }
+          },
+          {
+            "id": "d989486487c1664f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004_PRACTITIONERS & ORGS/Liane Thuvander.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Liane Thuvander"
+            }
+          },
+          {
+            "id": "a9f9bce5a34f249c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004_PRACTITIONERS & ORGS/László Sall Vesselényi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "László Sall Vesselényi"
+            }
+          },
+          {
+            "id": "9bcea4123aec3755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/3.0 GOTHENBURG TWINNING ECOSYSTEM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.0 GOTHENBURG TWINNING ECOSYSTEM"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,52 +220,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8463fbc33cd99db0",
+  "active": "9bcea4123aec3755",
   "lastOpenFiles": [
-    "protosCart.png",
-    "002_GAZAPLATSEN DATABASE/2.0_GAZAPLATSEN DATABASE.md",
-    "002_GAZAPLATSEN DATABASE/MeetingTent_11202024_3Dscan.md",
-    "MeetingTent_1120.md",
     "002_GAZAPLATSEN DATABASE/T547-24 Göteborg_digitized.pdf",
     "002_GAZAPLATSEN DATABASE/Police security camera perfit.md",
     "002_GAZAPLATSEN DATABASE/Police permit - Manifestation for peace and cohesion in Gothenburg.md",
     "002_GAZAPLATSEN DATABASE/Notice against fires.md",
     "002_GAZAPLATSEN DATABASE/NegotiationsSummary-1.pdf",
-    "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1-1.pdf",
-    "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1.pdf",
+    "002_GAZAPLATSEN DATABASE/MeetingTent_11202024_3Dscan.md",
     "002_GAZAPLATSEN DATABASE/Massgrave_3Dscan_11042024.md",
     "002_GAZAPLATSEN DATABASE/Library_3Dscan_23102024.md",
     "002_GAZAPLATSEN DATABASE/Kitchen_3Dscan_10042024.md",
     "002_GAZAPLATSEN DATABASE/InfoTent_3Dscan_10042024.md",
     "002_GAZAPLATSEN DATABASE/GUSP Negotiation Summary.md",
     "002_GAZAPLATSEN DATABASE/Firepit_3Dscan_11182024.md",
+    "002_GAZAPLATSEN DATABASE/2.0_GAZAPLATSEN DATABASE.md",
+    "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1-1.pdf",
+    "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1.pdf",
+    "004_PRACTITIONERS & ORGS/Visual Arena.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 Virtual Gothenburg Lab.md",
+    "004_PRACTITIONERS & ORGS/Sanna Klefbom.md",
+    "004_PRACTITIONERS & ORGS/László Sall Vesselényi.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/3.6 Social sustainability in urban development.md",
+    "004_PRACTITIONERS & ORGS/Liane Thuvander.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/3.5 CoExist 2.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/3.4 Digital Twin Cities Centre.md",
+    "IMAGES/diagram_vinnova_helix_city_2024-DTCC2-jpeg.jpg",
+    "IMAGES/visualarena-vr-nikon-adobergb-3000px-0145-workshop-screen-vgl-vg.jpg",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING.md",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-CARTOGRAPHY.md",
+    "IMAGES/Pasted image 20250511153049.png",
+    "001_COUNTER-TWINNING PROTOTYPES/1.3 CONVERSATION SIMULATOR.md",
+    "001_COUNTER-TWINNING PROTOTYPES/1.2 ONLINE MEMORIAL.md",
+    "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
+    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
+    "IMAGES/protosCart 1.png",
     "IMAGES/signal-2025-05-06-203305_002.jpeg",
     "IMAGES/signal-2025-05-06-203305_002(1).jpeg",
     "IMAGES/Screenshot 2025-05-08 230942.png",
     "IMAGES/Screenshot 2025-04-07 000343.png",
     "IMAGES/Screenshot 2025-04-07 000343 1.png",
     "IMAGES/Screenshot 2025-04-06 235534.png",
-    "IMAGES/Screenshot 2025-04-06 235534 1.png",
-    "IMAGES/Screenshot 2025-04-06 113056.png",
-    "IMAGES/protosCart.png",
-    "MeetingTent_11202024.md",
-    "InfoTent_3Dscan_10042024.md",
-    "Police permit - Manifestation for peace and cohesion in Gothenburg.md",
-    "Massgrave_3Dscan_11042024.md",
-    "Library_3Dscan_23102024.md",
-    "Firepit_3Dscan_11182024.md",
-    "Kitchen_3Dscan_10042024.md",
-    "Police security camera perfit.md",
-    "GUSP Negotiation Summary.md",
     "T547-24 Göteborg_digitized.pdf",
     "[Läsläge] Tillståndsbevis-1.pdf",
     "[Läsläge] Tillståndsbevis-1-1.pdf",
-    "Notice against fires.md",
-    "MiljoVis.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.2 KultVis.md",
-    "signal-2025-05-06-203305_002.jpeg",
     "NegotiationsSummary-1.pdf",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.5 UNEJ.md",
     "005_TOOLS & REPOSITORIES/REPOSITORIES",
     "005_TOOLS & REPOSITORIES/METHODS"
   ]

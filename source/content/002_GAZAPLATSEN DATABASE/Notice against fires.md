@@ -1,6 +1,6 @@
 ---
 tags:
-  - documents
+  - database
 ---
 ![[signal-2025-05-06-203305_002.jpeg]]
 
