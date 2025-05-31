@@ -1,18 +1,18 @@
 ---
-title: 🍉⛺🔻🌿
+title: 🍉WIKI INTRO⛺
 ---
 ![[IntroWkiGP.gif]]
-### 🗂️ ABOUT THE PROJECT
-Mapping Gazaplatsen is an attempt at exploring how [[COUNTER-CARTOGRAPHY]] can inform the way urban digital twins can be used to challenge normative, market-driven, and often anti-democratic approaches to urban digital twinning. 
-
-The project does so by exploring different ways of mapping a specific site, [[Gazaplatsen]], over the course of the 192 days of its existence thanks to the joined efforts of [**Gothenburg University Students for Palestine**](https://www.instagram.com/gustudentsforpalestine/), [**Social Justice Chalmers**](https://www.instagram.com/chalmers.social.justice/), and support from various local organizations.
+### 📍HOW TO USE THIS WIKI
+This project wiki has been designed to help anyone curious about the project and how it was made to find useful information about it including more context, its backstory but also how the Virtual Gazaplatsen Lab [[COUNTER-TWINNING]] prototypes were created!
 
 
-This wiki, serves as a sketchbook and a repository for my. In it you will find a non-exhaustive [[2.0_GAZAPLATSEN DATABASE]] of videos, images, events, 3D scans from Gazaplatsen, which were used in various ways in the three [[1.0 COUNTER-TWINNING PROTOTYPES]]. You will also be able to see how these prototypes connect to key parts of the [[3.0 GOTHENBURG TWINNING ECOSYSTEM]].
+|     | Who you are...                                                                                                                              | Where to start!                                                                                                                                                               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🖥️ | If you are someone interested in how ==creating your own counter-twin== prototypes...                                                       | ...you can start by looking at the [[1.0 COUNTER-TWINNING PROTOTYPES]] where you will find an overview of the first set of prototypes created in the Virtual Gazaplatsen Lab. |
+| ⛺   | If you are someone curious about ==the Gazaplatsen encampment== in general...                                                               | ...you can start with the [[2.0_GAZAPLATSEN DATABASE]] where you can find a timeline of events and supporting material on the evolution of the encampment.                    |
+| ✨   | If you are someone wanting to know more about the ==connections between the Virtual Gazaplatsen Lab and other Gothenburg digital twins==... | ...you can start by looking at the [[3.0 GOTHENBURG TWINNING ECOSYSTEM]] in which you will find examples of local efforts and a couple international examples.                |
+| 🔻  | If you are just wondering where you landed and want to know more about the ==project as a whole==...                                        | ...you can start in the [[0.0 ABOUT THIS PROJECT]]                                                                                                                            |
 
-The project was developed by me, [Hugo Pilate](https://hugopilate.com/), in the context of my [Design Masters thesis](https://www.gu.se/en/study-gothenburg/mfa-programme-in-design-k2den) at HDK-Valand in Gothenburg University.
-
-→ Project contact: hugopilate(at)gmail.com
 
 
 
