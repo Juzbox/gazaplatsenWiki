@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Graph(),
+    
     Component.Breadcrumbs(),
      
   ],
@@ -39,7 +39,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
   //   //Component.DesktopOnly(Component.TableOfContents()),
   //   Component.Backlinks(),
-    Component.Explorer(),
+    //Component.Explorer(),
+    Component.Graph(),
   ],
 }
 
@@ -51,7 +52,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    //Component.DesktopOnly(Component.Explorer()),
   ],
 right: [ ],
 }
