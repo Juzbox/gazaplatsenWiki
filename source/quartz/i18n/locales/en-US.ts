@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Wiki Structure",
+      title: "🗺️",
     },
     footer: {
       createdWith: "Created with",
