@@ -3,7 +3,7 @@ title: 🍉⛺ WIKI INTRO
 ---
 ![[IntroWkiGP.gif]]
 ### 🔻 VIRTUAL GAZAPLATSEN LAB
-The Virtual Gazplatsen Lab was a pop-up digital twinning effort hosted at the [[Gazaplatsen encampment]] which tried to document different aspects of the life of the camp and its effect on Gothenburg's civil society as a form of civic protest, more can be found about the project in the [[0.0 ABOUT THIS PROJECT]] section.
+The Virtual Gazplatsen Lab was a pop-up digital twinning effort hosted at the [[Gazaplatsen encampment]] which tried to document different aspects of the life of the camp and its effect on Gothenburg's civil society as a form of civic protest, more can be found about the project in the [[ABOUT THIS PROJECT]] section.
 
 ### 📍HOW TO USE THIS WIKI
 This wiki has been designed to help anyone curious about the Virtual Gazaplatsen Lab project and how it was made to find useful information about it including more context, its backstory, but also how the Virtual Gazaplatsen Lab [[COUNTER-TWINNING]] prototypes were created!
