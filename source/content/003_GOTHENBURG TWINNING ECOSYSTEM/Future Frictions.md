@@ -1,6 +1,7 @@
 ---
 tags:
   - casestudies
+  - urban_digital_twin
 ---
 ![[FF4-1024x576.png]]
 

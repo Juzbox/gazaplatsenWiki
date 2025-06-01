@@ -13,12 +13,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING.md",
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/GOTHENBURG TWINNING ECOSYSTEM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COUNTER-TWINNING"
+              "title": "GOTHENBURG TWINNING ECOSYSTEM"
+            }
+          },
+          {
+            "id": "688b723847ebfe02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Gazaplatsen Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Gazaplatsen Lab"
+            }
+          },
+          {
+            "id": "7496eef73464491a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/Future Frictions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Future Frictions"
+            }
+          },
+          {
+            "id": "52ac628e5709dce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/UNEJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UNEJ"
+            }
+          },
+          {
+            "id": "6921dc2589bb89be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/Social sustainability in urban development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social sustainability in urban development"
+            }
+          },
+          {
+            "id": "4eda8cd01d4aa9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/CoExist 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoExist 2"
+            }
+          },
+          {
+            "id": "593c0e6301204d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/KultVis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KultVis"
+            }
+          },
+          {
+            "id": "74441abfd554b483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gothenburg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Gothenburg"
+            }
+          },
+          {
+            "id": "373cb54bea4d0511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ONLINE MEMORIAL"
             }
           }
         ]
@@ -179,46 +291,45 @@
   },
   "active": "d2696aef17059111",
   "lastOpenFiles": [
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING.md",
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.8 Future Frictions.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.7 UNEJ.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.6 Social sustainability in urban development.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.5 CoExist 2.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.4 Digital Twin Cities Centre.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.3 Virtual Gothenburg Lab.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.2 KultVis.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.1 Virtual Gothenburg.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/3.0 GOTHENBURG TWINNING ECOSYSTEM.md",
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-CARTOGRAPHY.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.3 CONVERSATION SIMULATOR.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.2 ONLINE MEMORIAL.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.1 INVESTIGATIVE ARCHIVE.md",
-    "001_COUNTER-TWINNING PROTOTYPES/1.0 COUNTER-TWINNING PROTOTYPES.md",
+    "Virtual Gazaplatsen Lab.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/GOTHENBURG TWINNING ECOSYSTEM.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Future Frictions.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/UNEJ.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Social sustainability in urban development.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/CoExist 2.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/KultVis.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gothenburg.md",
+    "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
+    "Pasted image 20250601170228.png",
+    "Pasted image 20250601170219.png",
+    "Pasted image 20250601170137.png",
+    "Pasted image 20250601170129.png",
+    "City of Gothenburg.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gothenburg Lab.md",
     "ABOUT THIS PROJECT.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/GUSP.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Digital Twin Cities Centre.md",
+    "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
+    "001_COUNTER-TWINNING PROTOTYPES/INVESTIGATIVE SANDBOX.md",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-CARTOGRAPHY.md",
+    "001_COUNTER-TWINNING PROTOTYPES/CONVERSATION SIMULATOR.md",
+    "index.md",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING.md",
     "006_SITES/Lindholmen Science Park.md",
     "006_SITES/Gothenburg Film Studios.md",
     "IMAGES/Screenshot 2025-04-06 113056 1.png",
     "006_SITES/Gazaplatsen encampment.md",
     "IMAGES/01_Nov18.jpg",
     "IntroSlides_HugoP(2)(1).jpg",
-    "index.md",
-    "002_GAZAPLATSEN DATABASE/2.0_GAZAPLATSEN DATABASE.md",
     "IMAGES/signal-2025-05-14-223427_002.jpeg",
     "IMAGES/WhatsApp Image 2025-05-20 at 18.15.14.jpeg",
     "IMAGES/General_image_panel0000.png",
-    "IMAGES/HugoPilate_GazaplatsenOnlineMemorial_HugoPilate.jpg",
     "004_PRACTITIONERS & ORGS/László Sall Vesselényi.md",
-    "IMAGES/VGLv2.png",
-    "GBGlionv2.png",
-    "002_GAZAPLATSEN DATABASE/Police security camera permit.md",
     "002_GAZAPLATSEN DATABASE/T547-24 Göteborg_digitized.pdf",
-    "002_GAZAPLATSEN DATABASE/Police permit - Manifestation for peace and cohesion in Gothenburg.md",
-    "002_GAZAPLATSEN DATABASE/Notice against fires.md",
     "002_GAZAPLATSEN DATABASE/NegotiationsSummary-1.pdf",
     "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1-1.pdf",
     "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1.pdf",
-    "IMAGES/diagram_vinnova_helix_city_2024-DTCC2-jpeg.jpg",
     "T547-24 Göteborg_digitized.pdf",
     "[Läsläge] Tillståndsbevis-1.pdf",
     "[Läsläge] Tillståndsbevis-1-1.pdf",

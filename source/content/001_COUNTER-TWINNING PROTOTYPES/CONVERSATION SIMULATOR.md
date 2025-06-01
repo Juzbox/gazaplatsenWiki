@@ -1,6 +1,8 @@
 ---
 tags:
   - prototype
+  - simulation
+  - real-time
 ---
 ![[Protocovers-03 1.png]]
 

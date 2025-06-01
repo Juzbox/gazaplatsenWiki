@@ -1,0 +1,9 @@
+---
+tags:
+  - digital_twin_developers
+Website: https://visualarena.lindholmen.se/en/project/virtual-gothenburg-lab
+---
+![[visualarena-vr-nikon-adobergb-3000px-0145-workshop-screen-vgl-vg.jpg]]
+
+Organized by [[Visual Arena]] the Virtual Gothenburg Lab was a project that resulted in the production of 5 digital twinning pilots, of which [[CoExist 2]] and [[Social sustainability in urban development]] were a part of.
+

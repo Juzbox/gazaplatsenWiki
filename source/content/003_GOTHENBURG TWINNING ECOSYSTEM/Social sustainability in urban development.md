@@ -1,10 +1,11 @@
 ---
 tags:
   - casestudies
+  - urban_digital_twin
 Website: https://visualarena.lindholmen.se/virtual-gothenburg-lab/vad-vill-du-testa/social-hallbarhet-i-stadsutveckling
 ---
 
-![mockupardialogue.png](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNHuhjaTkY9_EMaNZXg4GBA8jz-kQuRYXQkNKGu_il6b7K8aCrtpXJoDJWdqwrnpiwO85WXvd6YLHyYx1nay58LhMx_0rIVjFfcV4Cidy0Au_OvY_KVQWKdLaNpwjK-IvYVBBQjg?key=NI-Sa9Y4oJLfn4B723Ao0iXM)
+![[Pasted image 20250601170219.png]]
 
 ## How do we build a better city together?
 
@@ -12,4 +13,4 @@ In this pilot, we explored together how an easily accessible technical interface
 
 In urban planning processes, involved parties face many challenges: How can current and future needs among a city's population be balanced? How can the process take into account the needs of resource-poor groups and needs that are difficult to define and measure, and not just the needs of resource-rich groups and needs that are easy to define and measure? Not taking challenges like these seriously has major social costs in that real needs are made invisible and not met, which can also mean major economic costs for individuals and resident groups as well as society and its institutions at large.
 
-Part of the [[3.3 Virtual Gothenburg Lab]] pilots / developed by [[Sanna Klefbom]] with support from [[László Sall Vesselényi]]
+Part of the [[Virtual Gothenburg Lab]] pilots / developed by [[Sanna Klefbom]] with support from [[László Sall Vesselényi]]

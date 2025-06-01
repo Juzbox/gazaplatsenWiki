@@ -1,0 +1,29 @@
+---
+tags:
+  - prototype
+---
+### ⚡ABOUT COUNTER-TWINNING
+In this project I tried to imagine how groups of Gothenburg residents at risk of being silenced, invisibilized or conveniently overlooked in centralized digital twinning efforts might make their own digital twins that serve their own: sensemaking, investigative, strategic, or organizational needs. 
+
+I have used the term COUNTER-TWINNING as an extension of [[COUNTER-CARTOGRAPHY]] a concept proposed by [Edward Said](https://en.wikipedia.org/wiki/Edward_Said) and popularized in the investigation of corporate and state violence by the studio [[Forensic Architecture]]. The "counter-" is added to "twinning" in reference to the practice of [urban digital twinning](https://goteborg.se/wps/portal/start/goteborg-vaxer/sa-planeras-staden/goteborgs-digitala-tvilling/in-english-about-gothenburgs-digital-twin), in which cities like Gothenburg create digital doubles of their built environment to plan / simulate / visualize changes to come and hopefully foster civic debate around the development of the city. However the opportunities for meaningful civic engagement provided by these platforms tend to be a little limited.
+
+In the larger picture, I am proposing counter-twinning as a means of exercising the [Right to the Smart City](https://www.researchgate.net/publication/333391115_Citizenship_Justice_and_the_Right_to_the_Smart_City) as framed by geographer [[Rob Kitchin]], which calls for means of shaping the (smart) city through means other than market or state driven.
+
+This project is in large part inspired by projects like [[UNEJ]] and [[Future Frictions]] which also seek to exercise the Right to the Smart City.
+
+### ⛓️ COUNTER-TWINS OF GAZAPLATSEN
+Counter, I decided to twin an encampment I was a part of with the [**Gothenburg University Students for Palestine**](https://www.instagram.com/gustudentsforpalestine/), [**Social Justice Chalmers**](https://www.instagram.com/chalmers.social.justice/), and support from various local organizations.
+
+| 🗃️<br>                                                                                                                                                                                                                                                                                                                                  | 🖥️                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[INVESTIGATIVE SANDBOX]] <br><br>An archive of the life of the camp mixing GIS data with found footage of the encampment used to reflect on the power dynamics at play in and around the camp.                                                                                                                                      | ![[Protocovers-01 1.png]] |
+| [[ONLINE MEMORIAL]] <br><br>A subjective 3D depiction of the camp mixing photogrammetric captures, sound recordings and imagery found on social media to create a slightly surreal portrait of the spirit of the camp and how it confronted visitors with the cyclical nature of the violence inflicted upon the Palestinian people. | ![[Protocovers-02 1.png]] |
+| [[CONVERSATION SIMULATOR]] <br><br>A real-time conversation simulation environment in which different actors like student protestors or representatives of the leadership can be made to interact surfacing a variety of perspectives regarding the camp’s presence in Gothenburg, and the cause it stood for.                       | ![[Protocovers-03 1.png]] |
+|                                                                                                                                                                                                                                                                                                                                          |                           |
+
+
+
+
+
+
+![[protosCart 1.png]]

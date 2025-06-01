@@ -1,6 +1,6 @@
 ---
 tags:
-  - practitioners
+  - digital_twin_developers
 Website: https://dtcc.chalmers.se/
 ---
 ![[diagram_vinnova_helix_city_2024-DTCC2-jpeg.jpg]]

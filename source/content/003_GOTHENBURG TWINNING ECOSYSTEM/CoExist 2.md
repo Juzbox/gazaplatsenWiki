@@ -1,6 +1,7 @@
 ---
 tags:
   - casestudies
+  - urban_digital_twin
 Website: https://visualarena.lindholmen.se/virtual-gothenburg-lab/vad-vill-du-testa/coexist-2
 ---
 ![[Screenshot 2025-04-07 001033.png]]
