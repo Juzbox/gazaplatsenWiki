@@ -11,19 +11,19 @@ In the larger picture, I am proposing counter-twinning as a means of exercising 
 
 This project is in large part inspired by projects like [[UNEJ]] and [[Future Frictions]] which also seek to exercise the Right to the Smart City.
 
+
 ### ⛓️ COUNTER-TWINS OF GAZAPLATSEN
 Counter, I decided to twin an encampment I was a part of with the [**Gothenburg University Students for Palestine**](https://www.instagram.com/gustudentsforpalestine/), [**Social Justice Chalmers**](https://www.instagram.com/chalmers.social.justice/), and support from various local organizations.
 
-| 🗃️<br>                                                                                                                                                                                                                                                                                                                                  | 🖥️                       |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| 🗃️<br>                                                                                                                                                                                                                                                                                                                              | 🖥️                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | [[INVESTIGATIVE SANDBOX]] <br><br>An archive of the life of the camp mixing GIS data with found footage of the encampment used to reflect on the power dynamics at play in and around the camp.                                                                                                                                      | ![[Protocovers-01 1.png]] |
 | [[ONLINE MEMORIAL]] <br><br>A subjective 3D depiction of the camp mixing photogrammetric captures, sound recordings and imagery found on social media to create a slightly surreal portrait of the spirit of the camp and how it confronted visitors with the cyclical nature of the violence inflicted upon the Palestinian people. | ![[Protocovers-02 1.png]] |
 | [[CONVERSATION SIMULATOR]] <br><br>A real-time conversation simulation environment in which different actors like student protestors or representatives of the leadership can be made to interact surfacing a variety of perspectives regarding the camp’s presence in Gothenburg, and the cause it stood for.                       | ![[Protocovers-03 1.png]] |
-|                                                                                                                                                                                                                                                                                                                                          |                           |
 
 
 
 
 
 
-![[protosCart 1.png]]
+
