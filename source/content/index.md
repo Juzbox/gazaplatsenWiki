@@ -1,16 +1,18 @@
 ---
 title: WIKI INTRO
 ---
+![[IntroWkiGP.gif]]
 # 🔻 VIRTUAL GAZAPLATSEN LAB
 The Virtual Gazplatsen Lab was a pop-up digital twinning effort hosted at the [[Gazaplatsen encampment]] which tried to document different aspects of the life of the camp and its effect on Gothenburg's civil society as a form of civic protest, more can be found about the project in the [[ABOUT THIS PROJECT]] section.
 
 The Virtual Gazaplatsen Lab resulted in the production of three [[COUNTER-TWINNING PROTOTYPES]] which try to document and visualize different forms of spatial domination, erasure, and violence faced by the [[Gazaplatsen encampment]] in its protest of Gothenburg University's complicity in the genocide of Palestinians.
 
+|🗃️|🖥️|
+|:--|---|
+|[INVESTIGATIVE SANDBOX](app://obsidian.md/INVESTIGATIVE%20SANDBOX)  <br>  <br>An archive of the life of the camp mixing GIS data with found footage of the encampment used to reflect on the power dynamics at play in and around the camp.|![Protocovers-01 1.png](app://d7b1cce48156abade5f5ba58603e70841a54/C:/Users/hugop/OneDrive/Desktop/PRO/GithubFiles/gazaplatsenWiki/source/content/IMAGES/Protocovers-01%201.png?1746530835540)|
+|[ONLINE MEMORIAL](app://obsidian.md/ONLINE%20MEMORIAL)  <br>  <br>A subjective 3D depiction of the camp mixing photogrammetric captures, sound recordings and imagery found on social media to create a slightly surreal portrait of the spirit of the camp and how it confronted visitors with the cyclical nature of the violence inflicted upon the Palestinian people.|![Protocovers-02 1.png](app://d7b1cce48156abade5f5ba58603e70841a54/C:/Users/hugop/OneDrive/Desktop/PRO/GithubFiles/gazaplatsenWiki/source/content/IMAGES/Protocovers-02%201.png?1746530835571)|
+|[CONVERSATION SIMULATOR](app://obsidian.md/CONVERSATION%20SIMULATOR)  <br>  <br>A real-time conversation simulation environment in which different actors like student protestors or representatives of the leadership can be made to interact surfacing a variety of perspectives regarding the camp’s presence in Gothenburg, and the cause it stood for.|![Protocovers-03 1.png](app://d7b1cce48156abade5f5ba58603e70841a54/C:/Users/hugop/OneDrive/Desktop/PRO/GithubFiles/gazaplatsenWiki/source/content/IMAGES/Protocovers-03%201.png?1746530835613)|
 
-![[COUNTER-TWINNING PROTOTYPES#⛓️ COUNTER-TWINS OF GAZAPLATSEN]]
-
-
-![[IntroWkiGP.gif]]
 
 # 📍HOW TO USE THIS WIKI
 This wiki has been designed to help anyone curious about the Virtual Gazaplatsen Lab project and how it was made to find useful information about it including more context, its backstory, but also how the Virtual Gazaplatsen Lab prototypes were created!
@@ -22,8 +24,6 @@ This wiki has been designed to help anyone curious about the Virtual Gazaplatsen
 | ✨   | If you are someone wanting to know more about the ==connections between the Virtual Gazaplatsen Lab and other Gothenburg digital twins==... | ...you can start by looking at the [[GOTHENBURG TWINNING ECOSYSTEM]] in which you will find examples of local efforts and a couple international examples.                |
 
 
-| ![[CampFire.png]] | ![[InsideTent.png]] | ![[LionOutside.png]] |
-| ----------------- | ------------------: | -------------------- |
 
 
 

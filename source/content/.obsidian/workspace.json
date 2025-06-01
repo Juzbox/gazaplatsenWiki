@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "005_TOOLS & REPOSITORIES/REPOSITORIES/Tira Zain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Tira Zain"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Gazaplatsen Lab.md",
+                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gazaplatsen Lab.md",
                 "mode": "source",
                 "source": false
               },
@@ -303,15 +303,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2696aef17059111",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
-    "LionOutside.png",
-    "InsideTent.png",
-    "CampFire.png",
+    "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Touchdesigner.md",
+    "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Min Karta Lantmateriet.md",
+    "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/GoKart.md",
+    "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/BLOSM.md",
+    "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Blender.md",
+    "005_TOOLS & REPOSITORIES/REPOSITORIES/Tira Zain.md",
+    "005_TOOLS & REPOSITORIES/REPOSITORIES/TimeViz Browser.md",
+    "005_TOOLS & REPOSITORIES/REPOSITORIES/Open Structures.md",
     "index.md",
+    "ABOUT THIS PROJECT.md",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
+    "IMAGES/LionOutside.png",
+    "IMAGES/InsideTent.png",
+    "IMAGES/CampFire.png",
     "003_GOTHENBURG TWINNING ECOSYSTEM/GOTHENBURG TWINNING ECOSYSTEM.md",
-    "Virtual Gazaplatsen Lab.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gazaplatsen Lab.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Future Frictions.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/UNEJ.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Social sustainability in urban development.md",
@@ -319,27 +328,19 @@
     "003_GOTHENBURG TWINNING ECOSYSTEM/KultVis.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gothenburg.md",
     "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
-    "Pasted image 20250601170228.png",
-    "Pasted image 20250601170219.png",
-    "Pasted image 20250601170137.png",
-    "Pasted image 20250601170129.png",
-    "City of Gothenburg.md",
+    "IMAGES/Pasted image 20250601170228.png",
+    "IMAGES/Pasted image 20250601170219.png",
+    "IMAGES/Pasted image 20250601170137.png",
+    "IMAGES/Pasted image 20250601170129.png",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/City of Gothenburg.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gothenburg Lab.md",
-    "ABOUT THIS PROJECT.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/GUSP.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Digital Twin Cities Centre.md",
     "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
     "001_COUNTER-TWINNING PROTOTYPES/INVESTIGATIVE SANDBOX.md",
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-CARTOGRAPHY.md",
-    "001_COUNTER-TWINNING PROTOTYPES/CONVERSATION SIMULATOR.md",
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING.md",
-    "006_SITES/Lindholmen Science Park.md",
-    "006_SITES/Gothenburg Film Studios.md",
     "IMAGES/Screenshot 2025-04-06 113056 1.png",
-    "006_SITES/Gazaplatsen encampment.md",
     "IMAGES/01_Nov18.jpg",
     "IntroSlides_HugoP(2)(1).jpg",
-    "004_PRACTITIONERS & ORGS/László Sall Vesselényi.md",
     "002_GAZAPLATSEN DATABASE/T547-24 Göteborg_digitized.pdf",
     "002_GAZAPLATSEN DATABASE/NegotiationsSummary-1.pdf",
     "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1-1.pdf",
