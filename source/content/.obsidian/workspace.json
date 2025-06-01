@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COUNTER-TWINNING PROTOTYPES"
+              "title": "index"
             }
           },
           {
@@ -305,6 +305,7 @@
   },
   "active": "d2696aef17059111",
   "lastOpenFiles": [
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
     "index.md",
     "005_TOOLS & REPOSITORIES/REPOSITORIES/Tira Zain.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Touchdesigner.md",
@@ -315,7 +316,6 @@
     "005_TOOLS & REPOSITORIES/REPOSITORIES/TimeViz Browser.md",
     "005_TOOLS & REPOSITORIES/REPOSITORIES/Open Structures.md",
     "ABOUT THIS PROJECT.md",
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
     "IMAGES/LionOutside.png",
     "IMAGES/InsideTent.png",
     "IMAGES/CampFire.png",
