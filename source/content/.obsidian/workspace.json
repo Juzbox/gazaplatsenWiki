@@ -147,7 +147,8 @@
               "title": "ONLINE MEMORIAL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,10 +304,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2696aef17059111",
+  "active": "9658e73a6c8af42c",
   "lastOpenFiles": [
-    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
     "index.md",
+    "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
+    "T1_01 1.png",
+    "T3_02.png",
+    "t2_03.png",
+    "T1_01.png",
     "005_TOOLS & REPOSITORIES/REPOSITORIES/Tira Zain.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Touchdesigner.md",
     "005_TOOLS & REPOSITORIES/TOOLS & SOFTWARES/Min Karta Lantmateriet.md",
@@ -331,16 +336,11 @@
     "IMAGES/Pasted image 20250601170228.png",
     "IMAGES/Pasted image 20250601170219.png",
     "IMAGES/Pasted image 20250601170137.png",
-    "IMAGES/Pasted image 20250601170129.png",
     "003_GOTHENBURG TWINNING ECOSYSTEM/City of Gothenburg.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gothenburg Lab.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/GUSP.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Digital Twin Cities Centre.md",
     "002_GAZAPLATSEN DATABASE/GAZAPLATSEN DATABASE.md",
-    "001_COUNTER-TWINNING PROTOTYPES/INVESTIGATIVE SANDBOX.md",
-    "IMAGES/Screenshot 2025-04-06 113056 1.png",
-    "IMAGES/01_Nov18.jpg",
-    "IntroSlides_HugoP(2)(1).jpg",
     "002_GAZAPLATSEN DATABASE/T547-24 Göteborg_digitized.pdf",
     "002_GAZAPLATSEN DATABASE/NegotiationsSummary-1.pdf",
     "002_GAZAPLATSEN DATABASE/[Läsläge] Tillståndsbevis-1-1.pdf",
