@@ -4,7 +4,7 @@ tags:
   - surreal
   - bearing_witness
 ---
-![[Protocovers-02 1.png]]
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1092279936?h=887c7b5acb" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 > [!NOTE] OVERVIEW
 > ONLINE MEMORIAL / A slightly surreal 3D depiction of the camp mixing photogrammetric captures I have taken over the life of the camp, as well as audio testimonies provided by camp members, and imagery found on social media to create a slightly surreal portrait of the camp and how it confronted visitors with the cyclical nature of the violence inflicted upon the Palestinian people. Footage was also provided by film-maker Leo Palmestal who is currently working on a documentary of the Gazaplatsen encampment and the channel Gatans Parlament which covered on Youtube the first hundred days of the camp.
@@ -13,12 +13,6 @@ tags:
 > 
 > Made using: [[Blender]] + [[BLOSM]] + [[Newart.city]] + [[Sketchfab/Blender plugin]] + [[Polycam]] + [[Meshy.ai]]
 > 
-
-
-
-
-
-
 
 
 
