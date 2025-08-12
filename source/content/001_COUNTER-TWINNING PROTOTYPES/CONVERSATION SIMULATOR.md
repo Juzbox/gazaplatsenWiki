@@ -4,7 +4,7 @@ tags:
   - simulation
   - real-time
 ---
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1092279936?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="THE ONLINE MEMORIAL | COUNTER-TWIN PROTOTYPE 2"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1092354465?h=6ba197962e" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="THE INVESTIGATIVE SANDBOX | COUNTER-TWIN PROTOTYPE 1"></iframe></div>
 
 > [!NOTE] OVERVIEW
 > CONVERSATION SIMULATOR / A real-time conversation simulation environment in which different actors like student protestors or representatives of the leadership can be made to interact and in doing so surface a variety of perspectives regarding the camp’s presence in Gothenburg, and the cause it stood for. The technological backend of the prototype was fully coded by the game developer and friend [Mourdjen Bari](https://www.linkedin.com/in/mourdjen-bari-2ab20285/?originalSubdomain=fr).

@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2696aef17059111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9658e73a6c8af42c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ONLINE MEMORIAL"
-            }
-          },
-          {
             "id": "688b723847ebfe02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gazaplatsen Lab.md",
+                "file": "001_COUNTER-TWINNING PROTOTYPES/INVESTIGATIVE SANDBOX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Gazaplatsen Lab"
+              "title": "INVESTIGATIVE SANDBOX"
             }
           },
           {
@@ -139,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ONLINE MEMORIAL"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -304,14 +276,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9658e73a6c8af42c",
+  "active": "373cb54bea4d0511",
   "lastOpenFiles": [
-    "001_COUNTER-TWINNING PROTOTYPES/CONVERSATION SIMULATOR.md",
-    "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
     "001_COUNTER-TWINNING PROTOTYPES/INVESTIGATIVE SANDBOX.md",
+    "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gazaplatsen Lab.md",
+    "index.md",
+    "001_COUNTER-TWINNING PROTOTYPES/ONLINE MEMORIAL.md",
+    "001_COUNTER-TWINNING PROTOTYPES/CONVERSATION SIMULATOR.md",
     "T1_02.png",
     "T1_01 2.png",
-    "index.md",
     "001_COUNTER-TWINNING PROTOTYPES/COUNTER-TWINNING PROTOTYPES.md",
     "T1_01 1.png",
     "T3_02.png",
@@ -330,7 +303,6 @@
     "IMAGES/InsideTent.png",
     "IMAGES/CampFire.png",
     "003_GOTHENBURG TWINNING ECOSYSTEM/GOTHENBURG TWINNING ECOSYSTEM.md",
-    "003_GOTHENBURG TWINNING ECOSYSTEM/Virtual Gazaplatsen Lab.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Future Frictions.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/UNEJ.md",
     "003_GOTHENBURG TWINNING ECOSYSTEM/Social sustainability in urban development.md",
