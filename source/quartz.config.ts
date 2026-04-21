@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "Juzbox.github.io/gazaplatsenWiki",
+    baseUrl: "hugopilate.com/gazaplatsenWiki/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
